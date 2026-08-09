@@ -29,10 +29,10 @@ Codeforces-Solutions/
 ├── 71A_Way_Too_Long_Words/
 │   └── solution.py
 │
-├── 231A_Team/
+├── 486A_Calculating_Function/
 │   └── solution.py
 │
-├── 486A_Calculating_Function/
+├── 1030A_In_Search_of_an_Easy_Problem/
 │   └── solution.py
 │
 └── ...
