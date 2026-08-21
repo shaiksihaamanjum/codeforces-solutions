@@ -6,5 +6,5 @@ for i in range(t):
     print(a)    
 git add "1367A-Short Substrings"
 
-
+git commit -m "Add 1367A-Short Substrings "
         

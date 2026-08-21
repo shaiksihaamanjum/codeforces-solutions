@@ -8,3 +8,4 @@ for i in scores:
         count+=1 
 print(count)    
 git add "158A-Next Round"
+git commit -m "Add 158A-Next Round "
